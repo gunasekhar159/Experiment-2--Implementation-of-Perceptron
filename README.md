@@ -184,8 +184,9 @@ def plot_decision_regions(x, y):
 plot_decision_regions(x_test, y_test)
 ```
 ## Output:
-"C:\Users\shaik\OneDrive\Pictures\Screenshots\E1.png"
-"C:\Users\shaik\OneDrive\Pictures\Screenshots\E2.png"
+<img width="352" alt="E1" src="https://user-images.githubusercontent.com/95043391/232687359-b6aa648c-649c-4121-b815-1c275d7a7fdd.png">
+
+<img width="325" alt="E2" src="https://user-images.githubusercontent.com/95043391/232687406-972392ea-ba6e-48aa-86a9-ce6000a45983.png">
 
 
 ## RESULT:
